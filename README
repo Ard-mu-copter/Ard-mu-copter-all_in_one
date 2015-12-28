@@ -1,0 +1,15 @@
+Both IDE and source code are contained in this folder.
+
+1. Ard-mu-copter-IDE.zip is IDE for developing Ard-mu-copter while Ard-mu-copter-Sourcecode.zip is source code.
+
+2. Unzip Ard-mu-copter-IDE.zip.
+
+3. Doule click arduino.exe.
+
+4. Change "File-> Preferences" to  unzipfile path\book\
+
+5. Close your arduino.exe.
+
+6. Unzip Ard-mu-copter-Sourcecode.zip.
+
+7. Reopen IDE and compile sourcecode. Then upload to APM 2.52 or 2.6.
